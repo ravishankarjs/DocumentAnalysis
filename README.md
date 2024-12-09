@@ -1,0 +1,1 @@
+Implemented a document recognition system using Hough transform for deskewing and pytesseract for OCR. Conducted performance analysis on skew estimation techniques and validated the system on diverse document images, showcasing expertise in computer vision and text recognition technologies
